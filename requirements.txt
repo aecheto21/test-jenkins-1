@@ -11,13 +11,13 @@ distro==1.4.0
 Flask==1.1.2
 html5lib==1.0.1
 idna==2.8
-iniconfig==1.0.1
+#iniconfig==1.0.1
 ipaddr==2.2.0
 itsdangerous==1.1.0
 Jinja2==2.11.2
 lockfile==0.12.2
 MarkupSafe==1.1.1
-more-itertools==8.4.0
+#more-itertools==8.4.0
 msgpack==0.6.2
 packaging==20.3
 pep517==0.8.2
